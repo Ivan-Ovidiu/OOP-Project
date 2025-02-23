@@ -1,6 +1,6 @@
 # OOP-C-Project
 # Concepte de programare orientata pe obiecte:
-* Conceptul de Is-A  / Has-A aplicat la clasele folosite intrucat mostenirile au sens
+* Conceptul de Is-A  / Has-A aplicat pe clasele folosite ( mostenirile au sens )
 * Mostenire (multipla si in diamant)
 * Polimorfism
 * Incapsulare
