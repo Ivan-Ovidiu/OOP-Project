@@ -14,12 +14,12 @@ Adaugarea si stergerea salilor de jocuri<br />
 Vizualizarea informatiilor confidentiale despre fiecare sala (venituri, statistici)
 * Pentru Jucatori:<br />
   Jocuri de Masa:<br />
- <pre> Spanzuratoarea (joc de ghicit cuvinte)<br />
- <pre> X si 0 (contra calculatorului)<br />
+  <span>&emsp;</span> Spanzuratoarea (joc de ghicit cuvinte)<br />
+  <span>&emsp;</span>X si 0 (contra calculatorului)<br />
   Jocuri de Noroc:<br />
- <pre> Posibilitatea de a castiga bani virtuali<br />
- <pre> Sistem de achizitionare premii (mouse, tastatura, televizor)<br />
- <pre> Gestionarea balantei si a premiilor castigate<br />
+ Posibilitatea de a castiga bani virtuali<br />
+ Sistem de achizitionare premii (mouse, tastatura, televizor)<br />
+ Gestionarea balantei si a premiilor castigate<br />
 # Clasa Joc
 Reprezinta o baza abstracta pentru jocurile existente. Aceasta gestioneaza atribute esentiale precum numele locatiei, numarul total de locuri si locurile rezervate. Implementeaza doua interfete importante: IOInterface pentru operatii de citire/afisare si Calcule( o clasa abstracta) pentru metode de calcul.
 # Clasa Jucator 
