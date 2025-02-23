@@ -1,6 +1,10 @@
 # Arcade -  OOP C++ Project
 
-![2025-02-2313-16-59-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1fac89fe-97f0-43af-acc3-a895eee3b23f)
+
+
+https://github.com/user-attachments/assets/cce15538-327e-4343-9fa4-0f963aae5024
+
+
 
 # Concepte de programare orientata pe obiecte:
 * Conceptul de Is-A  / Has-A aplicat pe clasele folosite ( mostenirile au sens )
