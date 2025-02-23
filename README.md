@@ -8,6 +8,18 @@
 * Clase abstracte, interfete(singleton)
 * Tratarea exceptiilor pentru validarea datelor de intrare si gestionarea erorilor
 * Functii si clase virtuale
+  # Functionalitati principale
+* Administratori:
+Adaugarea si stergerea salilor de jocuri<br />
+Vizualizarea informatiilor confidentiale despre fiecare sala (venituri, statistici)
+* Pentru Jucatori:<br />
+Jocuri de Masa:<br />
+Spanzuratoarea (joc de ghicit cuvinte)
+X si 0 (contra calculatorului)
+* Jocuri de Noroc:<br />
+Posibilitatea de a castiga bani virtuali<br />
+Sistem de achizitionare premii (mouse, tastatura, televizor)<br />
+Gestionarea balantei si a premiilor castigate<br />
 # Clasa Joc
 Reprezinta o baza abstracta pentru jocurile existente. Aceasta gestioneaza atribute esentiale precum numele locatiei, numarul total de locuri si locurile rezervate. Implementeaza doua interfete importante: IOInterface pentru operatii de citire/afisare si Calcule( o clasa abstracta) pentru metode de calcul.
 # Clasa Jucator 
