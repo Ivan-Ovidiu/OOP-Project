@@ -69,12 +69,9 @@ Integreaza toate elementele ( existand o mostenire tip diamant intre clasele Joc
 
 # Clasa MeniuInteractiv 
 Este tip Singleton si ofera o interfata pentru:<br />
-![image](https://github.com/user-attachments/assets/b2b29812-2148-4b7d-ab33-502cb66c828b)
-
-
 * Crearea si administrarea salilor de jocuri
 * Accesarea diferitelor jocuri
 * Gestionarea premiilor
 * Vizualizarea informatiilor confidentiale despre sali
 * Procesarea tranzactiilor si rascumpararea premiilor
-
+![image](https://github.com/user-attachments/assets/b2b29812-2148-4b7d-ab33-502cb66c828b)
