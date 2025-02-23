@@ -8,15 +8,15 @@
 * Clase abstracte, interfete(singleton)
 * Tratarea exceptiilor pentru validarea datelor de intrare si gestionarea erorilor
 * Functii si clase virtuale
-  # Functionalitati principale
+# Functionalitati principale
 * Administratori:
 Adaugarea si stergerea salilor de jocuri<br />
 Vizualizarea informatiilor confidentiale despre fiecare sala (venituri, statistici)
 * Pentru Jucatori:<br />
-Jocuri de Masa:<br />
+  Jocuri de Masa:<br />
 Spanzuratoarea (joc de ghicit cuvinte)
 X si 0 (contra calculatorului)
-* Jocuri de Noroc:<br />
+  Jocuri de Noroc:<br />
 Posibilitatea de a castiga bani virtuali<br />
 Sistem de achizitionare premii (mouse, tastatura, televizor)<br />
 Gestionarea balantei si a premiilor castigate<br />
