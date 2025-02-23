@@ -1,6 +1,6 @@
 # Arcade -  OOP C++ Project
 
-
+Acest proiect reprezinta un spatiu interactiv pentru jucatori unde acestia pot sa se joace jocuri si sa obtina bani virtuali cu care pot cumpara premii virtuale.
 
 ![joccc-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5a567b97-9992-494e-bdc8-7cdfee17896b)
 
