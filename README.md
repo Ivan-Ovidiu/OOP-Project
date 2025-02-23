@@ -73,5 +73,5 @@ Este tip Singleton si ofera o interfata pentru:<br />
 * Accesarea diferitelor jocuri
 * Gestionarea premiilor
 * Vizualizarea informatiilor confidentiale despre sali
-* Procesarea tranzactiilor si rascumpararea premiilor
+* Procesarea tranzactiilor si cumparare premii
 ![image](https://github.com/user-attachments/assets/b2b29812-2148-4b7d-ab33-502cb66c828b)
