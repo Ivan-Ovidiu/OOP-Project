@@ -9,13 +9,13 @@
 * Tratarea exceptiilor pentru validarea datelor de intrare si gestionarea erorilor
 * Functii si clase virtuale
 # Functionalitati principale
-* Administratori:
+* Administratori:<br />
 Adaugarea si stergerea salilor de jocuri<br />
 Vizualizarea informatiilor confidentiale despre fiecare sala (venituri, statistici)
 * Pentru Jucatori:<br />
   Jocuri de Masa:<br />
-Spanzuratoarea (joc de ghicit cuvinte)
-X si 0 (contra calculatorului)
+Spanzuratoarea (joc de ghicit cuvinte)<br />
+X si 0 (contra calculatorului)<br />
   Jocuri de Noroc:<br />
 Posibilitatea de a castiga bani virtuali<br />
 Sistem de achizitionare premii (mouse, tastatura, televizor)<br />
